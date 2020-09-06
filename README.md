@@ -44,7 +44,7 @@
 <p align="justify">Watson es una inteligencia artificial que es capaz de responder a preguntas.... formuladas en lenguaje natural, desarrollado por la empresa estadounidense IBM. Forma parte del proyecto del equipo de investigación DeepQA, liderado por el investigador principal David Ferrucci. Lleva su nombre en honor del fundador y primer presidente de IBM, Thomas J. Watson.</p>
 <p align="justify">Watson responde a las preguntas gracias a una base de datos almacenada localmente.4​ La información contenida en esa base de datos proviene de multitud de fuentes, incluyendo enciclopedias, diccionarios, tesauros, artículos de noticias, y obras literarias, al igual que bases de datos externos, taxonomías, y ontologías (específicamente DBpedia, WordNet)</p>
 <p align="center"><img src="img/watson.jpg"/></p>
-<p align="center">-Versiones de la Raspberry Pi y sus características.<br>Fuente: https://es.wikipedia.org/wiki/Raspberry_Pi</p>
+<p align="center">-IBM Watson.<br>Fuente: https://cambiodigital-ol.com/2019/01/ibm-pone-fin-a-su-aplicacion-watson-workspace/</p>
 
 
 <H3>5. DIAGRAMAS</H3>
