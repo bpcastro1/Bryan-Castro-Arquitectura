@@ -43,7 +43,7 @@
 <p align="justify">Watson es un sistema informático para búsqueda de respuestas (question answering en inglés), desarrollado por IBM.1​ La corporación lo describe como "una aplicación de tecnologías avanzadas diseñadas para el procesamiento de lenguajes naturales, la recuperación de información, la representación del conocimiento, el razonamiento automático, y el aprendizaje automático al campo abierto de búsquedas de respuestas," que es "construido en la tecnología DeepQA de IBM para la generación de hipótesis, la recopilación de pruebas masivas, el análisis y la calificación."</p>
 <p align="justify">Watson es una inteligencia artificial que es capaz de responder a preguntas.... formuladas en lenguaje natural, desarrollado por la empresa estadounidense IBM. Forma parte del proyecto del equipo de investigación DeepQA, liderado por el investigador principal David Ferrucci. Lleva su nombre en honor del fundador y primer presidente de IBM, Thomas J. Watson.</p>
 <p align="justify">Watson responde a las preguntas gracias a una base de datos almacenada localmente.4​ La información contenida en esa base de datos proviene de multitud de fuentes, incluyendo enciclopedias, diccionarios, tesauros, artículos de noticias, y obras literarias, al igual que bases de datos externos, taxonomías, y ontologías (específicamente DBpedia, WordNet)</p>
-<p align="center"><img src="img/watson.jpg"/></p>
+<p align="center"><img src="img/watson.jpeg"/></p>
 <p align="center">-IBM Watson.<br>Fuente: https://cambiodigital-ol.com/2019/01/ibm-pone-fin-a-su-aplicacion-watson-workspace/</p>
 
 
