@@ -1,76 +1,51 @@
 <H2>INFORME</H2>
 <p align="center"><img src="img/logo.png"/></p>
 <H3>1. PLANTEAMIENTO DEL PROBLEMA</H3>
-<p align="justify">El micro-ordenador Google Coral, entra al mercado ofreciendo ciertos atributos nuevos, los cuales potenciaran la inteligencia artificial para lo cual esta designado este dispositivo. Además, servirá no solo para la creación de nuevas cosas, también puede alimentar el cerebro de inteligencia artificial de dispositivos ya realizados. Coral no solo tiene capacidad para ejecutar redes neuronales en el propio RPI (Raspberry PI) tal cual le permitirá incorporar de manera rápida, eficaz todo aquello sobre inteligencia artificial, evitando el peligro de hacer publico los datos, es decir dándole confidencialidad a todos los datos que lo contiene.</p>
+<p align="justify">Un chatbot es una aplicación de inteligencia artificial (IA) que puede imitar una conversación real conversation con un usuario con un lenguaje natural. Los chatbots permiten una conversación via texto o por métodos auditivos en páginas web, aplicaciones de mensajería, aplicaciones móviles o por teléfono.</p>
 
-<p align="justify">TPU o Unidad de Procesamiento Tensorial, viene a ser un acelerador de Inteligencia Artificial el cual fue desarrollado por Google, con objetivo en el aprendizaje automático. Además, se usó en el procesamiento de texto de Street View viniendo a proporcionar resultados de búsqueda, en conclusión, TPU viene a acelerar ciertos procesos, unificarlos, procesarlos de mejor manera, siendo uno de los circuitos integrados más importantes.</p>
+<p align="justify">Un bot de charla o bot conversacional (en inglés, chatbot) es un programa que simula mantener una conversación con una persona al proveer respuestas automáticas a entradas hechas por el usuario. Habitualmente, la conversación se establece mediante texto, aunque también hay modelos que disponen de una interfaz de usuario multimedia. Más recientemente, algunos comienzan a utilizar programas conversores de texto a sonido (CTV), dotándolo de mayor realismo a la interacción con el usuario.</p>
 
-<p align="justify">Google Colab, entra como una de las tantas herramientas que posee Google, la cual permite ejecutar y programas en Python, mediante el navegador. Es útil ya que no requiere que se configure, ofrece acceso a GPUs de manera gratuita y se puede compartir los contenidos entre cuentas GOOGLE de manera simultánea. Colab también puede ser considerado como un notebook Jupyter pero de manera gratuita, además se debe tomar en cuenta que se almacena en la nube, mediante nuestras cuentas personales y su almacenamiento disponible. También permite el uso de varias bibliotecas de aprendizaje automático.</p>
+<p align="justify">Para establecer una conversación han de utilizarse frases fácilmente comprensibles y que sean coherentes, aunque la mayoría de los bot conversacionales no consiguen comprender del todo. En su lugar, tienen en cuenta las palabras o frases del interlocutor, que les permitirán usar una serie de respuestas preparadas de antemano. De esta manera, el bot es capaz de seguir una conversación con más o menos lógica, pero sin saber realmente de qué está hablando.</p>
 
 <H3>2. OBJETIVOS</H3>
 <b>Objetivos Generales</b>
-<p align="justify">- Realizar un video explicando e identificando los temas relevantes a manera de un tutorial sobre el tema asignado.</p>
-<p align="justify">- Conocer los beneficios de usar Google Coral y TPU, mediante Google Colab.</p>
+<p align="justify">- Realizar un video explicando e identificando los topicos mas relevantes a manera de un tutorial sobre el tema asignado.</p>
+<p align="justify">- Conocer la herramineta proporcionada por IBM para la creacion de chatbot.</p>
 <b>Objetivos Específicos</b>
-<p align="justify">- Emplear las herramientas que nos brinda Google Coral y Colab.</p>
-<p align="justify">- Analizar la plataforma Google Colab para el uso de TPU.</p>
-<p align="justify">- Implementar un ejemplo que verifique la diferencia de rendimiento de una CPU y una TPU.</p>
-<p align="justify">- Analizar las características de hardware y software de la tarjeta de desarrollo Google Coral.</p>
+<p align="justify">- Emplear las herramientas que nos brinda IBM Watson.</p>
+<p align="justify">- Analizar la plataforma IBM Watson para la creacion del chatbot.</p>
+<p align="justify">- Implementar un ejemplo funcional sobre un chatbot.</p>
+
 <H3>3. ESTADO DEL ARTE</H3>
-<b>Notas sobre el uso de Google Colaboratory en la educación de Inteligencia Artificial</b><br>
-<p align="justify">Un desafío en el diseño de cursos de inteligencia artificial moderna es elegir herramientas y marcos apropiados para ejemplos en clase y tareas. No sólo es importante que las herramientas sean capaces de cubrir la profundidad del material presentado en el curso, sino lo suficientemente simple como para que los instructores lo implementen en el aula y que los estudiantes mantengan el enfoque en el plan de estudios.<br><br> 
-Los cuadernos de Jupyter es decir, documentos interactivos entrelazados con texto y código, son una herramienta cada vez más popular para que los investigadores lleven a cabo y comuniquen los resultados de la investigación, pero lo suficientemente simples como para desarrollar ejemplos en el aula y tareas.<br><br>
-Sin embargo, estos portátiles todavía requieren hardware sofisticado para ejecutar muchos de los enfoques populares en la IA hoy en día. Ofrecido como un servicio gratuito de Google, Colaboratory proporciona una interfaz Jupyter Notebook con acceso al hardware de Google. Los blocs de notas se ejecutan en máquinas virtuales basadas en Linux proporcionadas y mantenidas por Google, donde el cálculo se puede realizar con unidades de procesamiento central como lo es el CPU o acelerarse a través de unidades de procesamiento gráfico especializadas como la GPU y unidades de procesamiento de tensores como la TPU.<br><br></p>
-<p align="justify">- Fuente: Notes on Using Google Colaboratory in AI Education | Proceedings of the 2020 ACM Conference on Innovation and Technology in Computer Science Education. (n.d.). Recuperado en Julio 23, 2020, de https://dl.acm.org/doi/abs/10.1145/3341525.3393997</p>
+<b>	ChatBot</b><br>
+<p align="justify">La inteligencia artificial (IA) permite, a partir de algoritmos, crear recursos que simulen la capacidad del ser humano. La creación de un chatbot no es más que un sistema que piensa racionalmente dentro de lo debido, pero la pregunta es, ¿Es posible crear un sistema racional escalable?. Pues bien, comprobamos en este proyecto que el aprendizaje profundo/automático nos permite a través de una base de datos dinámica, crear un código capaz de gestionar un sistema que pueda pasar de 10 a 500 procesos sin sufrir ninguna alteración de peso en este. LUIS es nuestro aprendizaje profundo/automático y C# es el lenguaje que nos permite crear las funciones para darle un recorrido lógico a las tablas dinámicas de nuestra base de datos. A partir de todos estos conceptos el resultado refleja un recurso estable y capaz de adquirir conocimiento en grandes cantidades, destinado a ofrecer la información que almacena de manera lógica. Al final, nuestro sistema escalable (chatbot) evita errores de gestión, acelera los procesos, aumenta la eficacia del beneficiario y permite la posibilidad de crecer acorde con su funcionalidad.<br><br></p>
+<p align="justify">- Fuente: Universitat Oberta de Catalunya (UOC) | Chatbot. (n.d.). Recuperado en Septiembre 06, 2020, de http://openaccess.uoc.edu/webapps/o2/handle/10609/96867</p>
 
-<b>Consultas relacionales con una unidad de procesamiento de tensor</b>
-<p align="justify">Los procesadores de uso general han alcanzado una meta con respecto a la densidad de integración y las velocidades de reloj. Al mismo tiempo, las innovaciones en los sistemas han eliminado las ineficiencias en gran medida.<br><br>
-Un enfoque común es el reusar el hardware que está disponible en grandes cantidades a bajo costo, más prominentemente las Unidades de Procesamiento de Gráficos en este caso la GPU. La desventaja aquí es que el diseño de esos dispositivos fue desarrollado para un caso de uso muy diferente, juegos de ordenador 3D, y sólo benefician en parte el caso de uso de procesamiento de datos.<br><br>
-La eficiencia en esas tareas se logra con memoria de gran ancho de banda y paralelismo masivo de computación.<br><br></p>
-<p align="justify">- Fuente: Relational Queries with a Tensor Processing Unit | Proceedings of the 15th International Workshop on Data Management on New Hardware. (n.d.). Recuperado en Julio 23, 2020, de https://dl.acm.org/doi/abs/10.1145/3329785.3329932</p>
+<b>los chatbots en educación</b>
+<p align="justify">Los chatbots son programas informáticos que integran inteligencia artificial y que pueden simular, en mayor o menor grado, una conversación humana. Se están volviendo populares ya que funcionan con lenguaje natural y tienen una interfaz de usuario basada en la conversación, muy común en las aplicaciones de mensajería instantánea de teléfonos inteligentes. Se exploran las potencialidades del uso de los chatbots en educación, no tanto para asumir el papel de profesor, sino para ocuparse de aquellas tareas desempeñadas por los docentes que son repetitivas y de bajo nivel cognitivo. En educación, los chatbots pueden funcionar como asistentes virtuales para mejorar la productividad o simplemente para dar respuesta a preguntas más frecuentes (FAQs). Además, hay chatbots con un claro objetivo educativo que funcionan como tutores a lo largo de todo el proceso de aprendizaje.<br><br></p>
+<p align="justify">- Fuente: Universitat Oberta de Catalunya (UOC)| los chatbots en educación. (n.d.). Recuperado en Septiembre 06, 2020, de http://openaccess.uoc.edu/webapps/o2/handle/10609/85786</p>
 
-<b>Mejorar la eficiencia energética y la resiliencia de errores de una unidad de procesamiento de tensor de umbral cercano</b>
-<p align="justify">Los avances en inteligencia artificial han entrado en un nuevo reino debido al desarrollo de arquitecturas específicas de dominio dedicadas al procesamiento de redes neuronales.<br><br> 
-Tensor Processing Unit (TPU), un circuito integrado específico de aplicaciones personalizadas creado por Google, es uno de estos aceleradores.<br><br>
-El rápido aumento de las cargas de trabajo exige un aumento de la velocidad de procesamiento y el volumen de implementación. Sin embargo, tiene un costo de un uso intensivo de energía, afectando así la eficiencia energética del sistema.<br><br> 
-Los aceleradores como las TPU están diseñados para ofrecer un rendimiento muy alto para cargas de trabajo de inferencia de DNN. Aunque las condiciones de funcionamiento de NTC pueden garantizar un bajo consumo de energía, el rendimiento se reduce en gran medida debido a los transistores más lentos y los retrasos computacionales más largos. <br></p>
-<p align="justify">- Fuente: Enhancing Energy Efficiency and Error Resilience of a Near-Threshold Tensor Processing Unit - IEEE Conference Publication. (n.d.). Recuperado en Julio 28, 2020, de https://ieeexplore.ieee.org/abstract/document/9045479</p>
+<b>Chatbots en redes sociales para el apoyo oportuno de estudiantes universitarios con síntomas de trastorno por déficit de la atención con hiperactividad</b>
+<p align="justify">Se estima que la prevalencia del trastorno por déficit de atención con hiperactividad (TDAH) en estudiantes universitarios es del 2 al 4.5% pero varía de una universidad a otra. Sin embargo, muchos estudiantes evitan acudir a tratamiento por ansiedad, temor al estigma, porque sienten que los problemas de los otros son mayores que los propios o bien desconocen la sintomatología del TDAH. En esta contribución se presenta el diseño e implementación de un chatbot para la aplicación del cuestionario Adult Self Report Scale-Versión 1.1 (EATDAH-A) así como los resultados de la aplicación del mismo y la opinión de los usuarios en cuanto a su utilidad y experiencia como usuario.<br><br> 
+<p align="justify">- Fuente: Revista Iberoamerica de Tecnologia en eduacion y educacion en tecnologia | Chatbots en redes sociales para el apoyo oportuno de estudiantes universitarios con síntomas de trastorno por déficit de la atención con hiperactividad (n.d.). Recuperado en Septiembre 06, 2020, de http://teyet-revista.info.unlp.edu.ar/TEyET/article/view/1158</p>
 
 <H3>4. MARCO TEORICO</H3>
-<p align="justify">Google Coral, se desarrolló únicamente con el objetivo de realizar tareas de machine learning las cuales se integran en tareas de producción de manera eficaz y rápida. Hace uso de la red neuronal TensorFlow Lite y del modulo Edge TPU. Que es de tipo SOM (System on Module) donde van a estar ensamblados el procesador, la GPU, la RAM, el chip del WiFi y la Flash.</p>
+<H3>4.1 Chatbot</H3>
+<p align="justify">Los chatbots tienen su origen en 1966, cuando Joseph Weizenbaum creó el primer chatbot basado en inteligencia artificial, Eliza, que actuaba como terapeuta.</p>
 
-<p align="justify">Coral trabaja para satisfacer las necesidades del cliente, por lo cual idearon dos productos a la venta los cuales son aceleradores y plazas de desarrollo para la creación de prototipos de nuevas ideas, y módulos para alimentar el cerebro de inteligencia artificial de los dispositivos de producción, tales como cámaras inteligentes y sensores.</p>
+<p align="justify">Quizás comenzaron como un juego, pero hoy en día están muy extendidos. Muchos tienen su razón de ser e incluso esa razón es de bastante utilidad para todos. Los bots más clásicos y tempranos, además de Eliza, son SmarterChild, Parry y SHRDLU; entre los más recientes se encuentran Racter, A.L.I.C.E o Jabberwacky, Dr. Abuse (de Barres&Boronat), muy parecido a Eliza y Semantycs (de Full on Net) que ya puede interactuar con diversos canales y extraer información de ERP.</p>
 
-<p align="justify">Coral es capaz de ejecutar redes neurales en el propio RPI, de forma que “le es posible incorporar de manera rápida y eficaz, sin que sus proyectos representen un peligro para la confidencialidad de datos”.</p>
+<p align="justify">Los más avanzados, son programas capaces de mantener una conversación lógica y pseudo inteligente en un determinado idioma. Algunos de los más complejos están programados en C++, Delphi o similares, y otros más sencillos en Action Script, PHP, VBScript, etc. Pueden ser consultados además de mediante software instalado en un ordenador personal, vía web y vía aplicaciones instaladas en teléfonos inteligentes (entre las mismas, cabe mencionar a Siri y SimSimi,entre otros muchos). Existen muchos otros con amplia presencia en redes de IRC, donde son conocidos como bots de charla o bots de chat.</p>
+<p align="center"><img src="img/fisica.jpg"/></p>
+<p align="center">-Imagen de la Raspberry Pi Física<br>Fuente: https://upload.wikimedia.org/wikipedia/commons/f/f1/Raspberry_Pi_4_Model_B</p>
 
-<p align="justify">Dentro de las especificaciones técnicas, son:</p>
-<p align="justify">- CPU: NXP i.MXM 8M SOC (Cortex-A53 quad core)</p>
-<p align="justify">- GPU: integrada, GC7000 Lite Graphics</p>
-<p align="justify">- Coprocesador: Google Edge TPU</p>
-<p align="justify">- RAM: 1 GB LPDDR4</p>
-<p align="justify">- Almacenamiento: Flash eMMC de 8 GB</p>
-<p align="justify">- Conectividad: WiFi 2×2 MIMO de doble banda y Bluetooth 4.1</p>
-<p align="justify">- Dimensiones: 48 x 40 x 5 mm</p>
+<H3>4.2 IBM Watson</H3>
+<p align="justify">Watson es un sistema informático para búsqueda de respuestas (question answering en inglés), desarrollado por IBM.1​ La corporación lo describe como "una aplicación de tecnologías avanzadas diseñadas para el procesamiento de lenguajes naturales, la recuperación de información, la representación del conocimiento, el razonamiento automático, y el aprendizaje automático al campo abierto de búsquedas de respuestas," que es "construido en la tecnología DeepQA de IBM para la generación de hipótesis, la recopilación de pruebas masivas, el análisis y la calificación."</p>
+<p align="justify">Watson es una inteligencia artificial que es capaz de responder a preguntas.... formuladas en lenguaje natural, desarrollado por la empresa estadounidense IBM. Forma parte del proyecto del equipo de investigación DeepQA, liderado por el investigador principal David Ferrucci. Lleva su nombre en honor del fundador y primer presidente de IBM, Thomas J. Watson.</p>
+<p align="justify">Watson responde a las preguntas gracias a una base de datos almacenada localmente.4​ La información contenida en esa base de datos proviene de multitud de fuentes, incluyendo enciclopedias, diccionarios, tesauros, artículos de noticias, y obras literarias, al igual que bases de datos externos, taxonomías, y ontologías (específicamente DBpedia, WordNet)</p>
+<p align="center"><img src="img/tabla.jpg"/></p>
+<p align="center">-Versiones de la Raspberry Pi y sus características.<br>Fuente: https://es.wikipedia.org/wiki/Raspberry_Pi</p>
 
-<p align="justify">Las especificaciones de la placa base son:</p>
-<p align="justify">- Almacenamiento: microSD</p>
-<p align="justify">- USB: Un USB C para funcionalidad OTG, un USB C para la alimentación, un USB de tip0o micro USB para consola y un puerto USB A</p>
-<p align="justify">- LAN: puerto Gigabit Ethernet</p>
-<p align="justify">- Audio: un conector mini jack de 3,5 mm y un terminal de 4 pines para altavoces estéreo</p>
-<p align="justify">- Vídeo: Un conector HDMI 2.0a de tamaño completo y un conector de 24 pines para una cámara MIPI-CSI2</p>
-<p align="justify">- GPIO: un conector de 40 pines</p>
-<p align="justify">- Alimentación: 5 V Corriente continua</p>
-<p align="justify">- Dimensiones: 88 x 60 x 24 mm</p>
-
-<p align="justify">El módulo Edge TPU se ha diseñado para proporcionar un gran rendimiento en aplicaciones destinadas al aprendizaje automático, su tamaño compacto y reducido consumo de potencia lo hacen perfecto para ser integrado en sistemas dedicados al IoT, que realizan funciones de reconocimiento de imagen y de texto.</p>
-
-<p align="justify">La incorporación de este chip a la Google Coral hace que se reduzca de manera exponencial el tiempo que requiere la red neuronal para procesar los datos que le son suministrados.</p>
-
-<p align="justify">TensorFlow, se trata de una librería realizada en código abierto, la cual se ha desarrollado con un ecosistema de herramientas y una comunidad detrás de ella, cuyo único objetivo es potenciar el desarrollo de aplicaciones de Inteligencia Artificial y aprendizaje automático. Pero la novedad que presenta Google Coral, es que este pequeño micro PC es capaz de utilizarlo en tiempo real.</p>
-
-<p align="justify">Google Colab, es una herramienta de Google, la cual trata de ser un entorno de maquinas virtuales basado en Jupyter Notebooks. Se pueden ejecutar en la nube, donde podremos escoger si correr en una CPU, GPU o en una TPU, todo esto de manera gratuita. No obstante, hay ciertas restricciones, como por ejemplo que una sesión dura 12 horas, pasado el tiempo se realiza una limpieza y se perderán ciertas variables, archivos que se deberán tener allí.</p>
-
-<p align="justify">Sirve como medio para simular o experimentar con machine learning y Deep learning, pero sin tener que ir por costos de procesamiento de la nube, además el ambiente de trabajo ya tiene librerías instaladas las cuales están listas para utilizar, una de ellas antes mencionada es TensorFlow.</p>
 
 <H3>5. DIAGRAMAS</H3>
 <p align="center"><img src="img/diagrama1.png"/></p>
