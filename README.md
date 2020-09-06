@@ -36,14 +36,14 @@
 <p align="justify">Quizás comenzaron como un juego, pero hoy en día están muy extendidos. Muchos tienen su razón de ser e incluso esa razón es de bastante utilidad para todos. Los bots más clásicos y tempranos, además de Eliza, son SmarterChild, Parry y SHRDLU; entre los más recientes se encuentran Racter, A.L.I.C.E o Jabberwacky, Dr. Abuse (de Barres&Boronat), muy parecido a Eliza y Semantycs (de Full on Net) que ya puede interactuar con diversos canales y extraer información de ERP.</p>
 
 <p align="justify">Los más avanzados, son programas capaces de mantener una conversación lógica y pseudo inteligente en un determinado idioma. Algunos de los más complejos están programados en C++, Delphi o similares, y otros más sencillos en Action Script, PHP, VBScript, etc. Pueden ser consultados además de mediante software instalado en un ordenador personal, vía web y vía aplicaciones instaladas en teléfonos inteligentes (entre las mismas, cabe mencionar a Siri y SimSimi,entre otros muchos). Existen muchos otros con amplia presencia en redes de IRC, donde son conocidos como bots de charla o bots de chat.</p>
-<p align="center"><img src="img/fisica.jpg"/></p>
-<p align="center">-Imagen de la Raspberry Pi Física<br>Fuente: https://upload.wikimedia.org/wikipedia/commons/f/f1/Raspberry_Pi_4_Model_B</p>
+<p align="center"><img src="img/chatbot.jpg"/></p>
+<p align="center">-Imagen de un chatbot<br>Fuente:https://www.analiticaweb.es/microsoft-bot-hackaton/ </p>
 
 <H3>4.2 IBM Watson</H3>
 <p align="justify">Watson es un sistema informático para búsqueda de respuestas (question answering en inglés), desarrollado por IBM.1​ La corporación lo describe como "una aplicación de tecnologías avanzadas diseñadas para el procesamiento de lenguajes naturales, la recuperación de información, la representación del conocimiento, el razonamiento automático, y el aprendizaje automático al campo abierto de búsquedas de respuestas," que es "construido en la tecnología DeepQA de IBM para la generación de hipótesis, la recopilación de pruebas masivas, el análisis y la calificación."</p>
 <p align="justify">Watson es una inteligencia artificial que es capaz de responder a preguntas.... formuladas en lenguaje natural, desarrollado por la empresa estadounidense IBM. Forma parte del proyecto del equipo de investigación DeepQA, liderado por el investigador principal David Ferrucci. Lleva su nombre en honor del fundador y primer presidente de IBM, Thomas J. Watson.</p>
 <p align="justify">Watson responde a las preguntas gracias a una base de datos almacenada localmente.4​ La información contenida en esa base de datos proviene de multitud de fuentes, incluyendo enciclopedias, diccionarios, tesauros, artículos de noticias, y obras literarias, al igual que bases de datos externos, taxonomías, y ontologías (específicamente DBpedia, WordNet)</p>
-<p align="center"><img src="img/tabla.jpg"/></p>
+<p align="center"><img src="img/watson.jpg"/></p>
 <p align="center">-Versiones de la Raspberry Pi y sus características.<br>Fuente: https://es.wikipedia.org/wiki/Raspberry_Pi</p>
 
 
