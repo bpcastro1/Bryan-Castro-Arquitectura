@@ -52,58 +52,24 @@
 <p align="center"><img src="img/diagrama2.png"/></p>
 
 <H3>6. LISTA DE COMPONENTES</H3>
-<p align="justify"><b>Google Coral</b></p>
-<p align="justify">- Edge TPU System-on-Module (SoM)<br>
-- SoC NXP i.MX 8M (brazo de cuatro núcleos Cortex-A53, más Cortex-M4F)<br>
-- Coprocesador acelerador Google Edge TPU ML<br>
-- Coprocesador criptográfico<br>
-- Wi-Fi 2x2 MIMO (802.11b / g / n / ac 2.4 / 5 GHz)<br>
-- Bluetooth 4.2<br>
-- EMMC de 8 GB<br>
-- 1 GB LPDDR4<br>
-- Conexiones USB<br>
-- Puerto de alimentación USB tipo C (5 V CC)<br>
-- Puerto USB 3.0 Tipo-C OTG<br>
-- Puerto host USB 3.0 tipo A<br>
-- Puerto de consola serie USB 2.0 Micro-B<br>
-- Conexiones de audio<br>
-- Conector de audio de 3,5 mm (compatible con CTIA)<br>
-- Micrófono digital PDM (x2)<br>
-- Terminal de 4 pines de 2,54 mm para altavoces estéreo<br>
-- Conexiones de video<br>
-- HDMI 2.0a (tamaño completo)<br>
-- Conector FFC de 39 pines para pantalla MIPI DSI (4 carriles)<br>
-- Conector FFC de 24 pines para cámara MIPI CSI-2 (4 carriles)<br>
-- Ranura para tarjeta microSD<br>
-- Puerto Gigabit Ethernet<br>
-- Cabecera de expansión GPIO de 40 pines<br>
-- Admite Mendel Linux (derivado de Debian)<br></p>
-<p align="center"><img src="img/googlecoral.png"/></p>
-<p align="justify"><b>Google Colab</b></p>
-<p align="justify">- IPython Notebook<br>
-- Celdas<br>
-- Kernel<br>
-- Librerías<br>
-- VM de Google Compute Engine (la infraestructura de máquinas virtuales de Google en la nube)<br>
-- 12 GB de RAM<br>
-- 50 GB de almancenamiento en disco disponibles para el uso<br>
-- Tiempo-Maximo 12 horas<br>
-- Python 2<br>
-- Python 3<br>
-- GPU<br>
-- CPU<br>
-- TPU<br></p>
-<p align="center"><img src="img/googlecolab.png"/></p>
+<p align="justify"><b>IBM Watson</b></p>
+<p align="justify">- Accseso a internet<br>
+- Correo electronico<br>
+- Cuenta en IBM Watson<br>
+- Idea o nesecidad para plantear el chatbot<br>
+- Accseso a un computador<br>
+<p align="center"><img src="img/IBM.png"/></p>
+
 
 <H3>7. MAPA DE VARIABLES</H3>
-<p align="center"><img src="img/variable1.png"/></p>
-<p align="center"><img src="img/variable2.png"/></p>
+<p align="center"><img src="img/Tabla variables.png"/></p>
+
 
 <H3>8. EXPLICACION DEL CODIGO FUENTE</H3>
 <p align="justify">El proyecto no posee codigo fuente ya que es creado en una plataforma virtual.</p>
 
 <H3>9. DESCRIPCION DE PRERREQUISITOS Y CONFIGURACION</H3>
-<p align="justify">Se necesita una cuenta de Google colab donde nosotros podremos guardar nuestros códigos y permitir que nuestros compañeros puedan acceder y modificar nuestros diferentes códigos, la cual puede ser una cuenta institucional o una cuenta personal donde solo debemos llenar nuestra información y posteriormente elegir nuestro tipo de código que queremos realizar (Python 2 o Python3) nuestro tipo de procesador que queramos (CPU, GPU o TPU) y listo ya podemos usar Google colab al 100%</p>
+<p align="justify">Se necesita una cuenta de  IBM Watson la cual nos proporcionara las herramientas para la creacion de un chatbot como se mostrar el video anexado en el informe, ademas de proporcionar las herramientas no mustra una gia basicala cual nos indica los primeros pasos a seguir para la creacion del lchat bot eñl cual sera una respuesta a la nesecidad que aqueja al solicitante</p>
 
 <H3>10. APORTACIONES</H3>
 <b>SOM</b>
