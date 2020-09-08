@@ -100,41 +100,7 @@
 <p align="center"><img src="img/variable2.png"/></p>
 
 <H3>8. EXPLICACION DEL CODIGO FUENTE</H3>
-<p align="justify">Se hara un analisis en la rapidez que se genera en Google Colaba partir de la ejecución por medio de CPU y TPU.</p>
-<p align="center"><b>CPU</b></p>
-<p align="justify"><b>1. Lectura de Datos</b></p>
-<p align="justify">Se hará una lectura de dos archivos que estarán dentro de una ruta, ubicada en Google Drive en la cuenta personal de quien lo compile al código.</p>
-<p align="center"><img src="img/c1.png"/></p>
-<p align="justify"><b>2. Acceso a datos en Google Drive (Importación y permisos)</b></p>
-<p align="justify">Se realizará una importación por medio de la ruta a Google Drive y la Unidad personal de nuestra cuenta. Generará un link el cual nos dará un código de autorización, el cual lo ingresaremos y deberá salirnos “Mounted at (ruta)” en caso de no tener ningún error.</p>
-<p align="center"><img src="img/c2.png"/></p>
-<p align="justify"><b>3. Reshape de datos para garantizar matrices (No vectores)</b></p>
-<p align="justify">Se pondrá los valores en múltiplos de 128 para que sirva en la TPU, pero en este caso deberemos ubicar de igual manera los valores en la CPU, para no generar un favoritismo al momento de realizar la compilación y la comparación entre cada uno de los hardware.</p>
-<p align="center"><img src="img/c3.png"/></p>
-<p align="justify"><b>4.	Creación del modelo con Tensor Flow 2 + Librería Keras</b></p>
-<p align="justify">Se genera 3 capas, en 3 fases diferentes las cuales llevaran ciertos valores. En este caso será Normalización, Conv2D, MaxPooling2D, Dropout. El cual Conv2D llevara diferentes valores en cada una de las fases. Para al final aplanar mediante Flatten el numero de filtros de Dense, al igual que en la salida Dropout.</p>
-<p align="center"><img src="img/c4.png"/></p>
-<p align="justify"><b>5.	Test de velocidad e impresión</b></p>
-<p align="justify">Mediante la función de Python “timeit” se realizará que se guarde en la variable el tiempo que se demoro para poder ejecutar mediante la CPU nuestro código y para finalizar un print de lo que es el tiempo de demora en segundos.</p>
-<p align="center"><img src="img/c5.png"/></p>
-
-<p align="center"><b>TPU</b></p>
-<p align="justify"><b>1. Lectura de Datos</b></p>
-<p align="justify">Se hará una lectura de dos archivos que estarán dentro de una ruta, ubicada en Google Drive en la cuenta personal de quien lo compile al código.</p>
-<p align="center"><img src="img/c1.png"/></p>
-<p align="justify"><b>2. Acceso a datos en Google Drive (Importación y permisos)</b></p>
-<p align="justify">Se realizará una importación por medio de la ruta a Google Drive y la Unidad personal de nuestra cuenta. Generará un link el cual nos dará un código de autorización, el cual lo ingresaremos y deberá salirnos “Mounted at (ruta)” en caso de no tener ningún error.</p>
-<p align="center"><img src="img/c2.png"/></p>
-<p align="justify"><b>3. Reshape de datos para garantizar matrices (No vectores)</b></p>
-<p align="justify">Se pondrá los valores en múltiplos de 128 para que sirva en la TPU, debemos recordar que usamos los mismos valores para la configuracion de la CPU, por lo que vamos a realizar una comparacion de velocidades al ejecutar cada una de ellas. Recordar que esta puesto en 28x28 pixeles de escalas de grises.</p>
-<p align="center"><img src="img/c3.png"/></p>
-<p align="justify"><b>4.	Configuracion TPU</b></p>
-<p align="justify">Se aplica la versión de TensorFlow 2 para poder resolver la compilación de nuestro código y además se agregaran las 3 capas en 3 etapas de la librería Keras con diferentes valores en la capa Conv2D.</p>
-<p align="center"><img src="img/t1.png"/></p>
-<p align="center"><img src="img/t2.png"/></p>
-<p align="justify"><b>5.	Test de velocidad e impresión</b></p>
-<p align="justify">Mediante la función de Python “timeit” se realizará que se guarde en la variable el tiempo que se demoro para poder ejecutar mediante la TPU nuestro código y para finalizar un print de lo que es el tiempo de demora en segundos. Esto se realizara a nivel de un float de 32 bytes.</p>
-<p align="center"><img src="img/t3.png"/></p>
+<p align="justify">El proyecto no posee codigo fuente ya quie es ucreado en una plataforma virtual.</p>
 
 <H3>9. DESCRIPCION DE PRERREQUISITOS Y CONFIGURACION</H3>
 <p align="justify">Se necesita una cuenta de Google colab donde nosotros podremos guardar nuestros códigos y permitir que nuestros compañeros puedan acceder y modificar nuestros diferentes códigos, la cual puede ser una cuenta institucional o una cuenta personal donde solo debemos llenar nuestra información y posteriormente elegir nuestro tipo de código que queremos realizar (Python 2 o Python3) nuestro tipo de procesador que queramos (CPU, GPU o TPU) y listo ya podemos usar Google colab al 100%</p>
@@ -189,4 +155,4 @@ Después de llegar a la conclusión de cada uno de los objetivos específicos se
 <H3>15.1 MANUAL DE USUARIO</H3>
 <p align="justify">Adjunto en la carpeta Manual de Usuario.</p>
 <H3>15.2 HOJAS TECNICAS</H3>
-<p align="justify">Adjunto en la carpeta Hojas Técnicas.</p>
+<p align="justify">El proyecto no posee hojas tecnicas.</p>
