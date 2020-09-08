@@ -100,7 +100,7 @@
 <p align="center"><img src="img/variable2.png"/></p>
 
 <H3>8. EXPLICACION DEL CODIGO FUENTE</H3>
-<p align="justify">El proyecto no posee codigo fuente ya quie es ucreado en una plataforma virtual.</p>
+<p align="justify">El proyecto no posee codigo fuente ya que es creado en una plataforma virtual.</p>
 
 <H3>9. DESCRIPCION DE PRERREQUISITOS Y CONFIGURACION</H3>
 <p align="justify">Se necesita una cuenta de Google colab donde nosotros podremos guardar nuestros códigos y permitir que nuestros compañeros puedan acceder y modificar nuestros diferentes códigos, la cual puede ser una cuenta institucional o una cuenta personal donde solo debemos llenar nuestra información y posteriormente elegir nuestro tipo de código que queremos realizar (Python 2 o Python3) nuestro tipo de procesador que queramos (CPU, GPU o TPU) y listo ya podemos usar Google colab al 100%</p>
