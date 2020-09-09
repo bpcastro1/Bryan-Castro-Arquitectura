@@ -72,18 +72,20 @@
 <p align="justify">Se necesita una cuenta de  IBM Watson la cual nos proporcionara las herramientas para la creacion de un chatbot como se mostrar el video anexado en el informe, ademas de proporcionar las herramientas no mustra una gia basicala cual nos indica los primeros pasos a seguir para la creacion del lchat bot eñl cual sera una respuesta a la nesecidad que aqueja al solicitante</p>
 
 <H3>10. APORTACIONES</H3>
-<b>SOM</b>
-<p align="justify">Coral System-on-Module (SoM) es un sistema completamente integrado que lo ayuda a construir dispositivos integrados que exigen inferencias de aprendizaje automático (ML) rápidas. Contiene el sistema en chip (SoC) iMX 8M de NXP, memoria eMMC, LPDDR4 RAM, Wi-Fi y Bluetooth, pero su potencia única proviene del coprocesador Edge TPU de Google para la inferencia de aprendizaje automático de alta velocidad. (Google Coral, 2019)</p>
+<p align="justify">Como instalar un chatbot en una pagina web</p>
 <b>Edge TPU</b>
-<p align="justify">Edge TPU permite desplegar inferencias de aprendizaje automático de alta calidad en el perímetro por medio de diversos productos de producción y prototipado de Coral.</p>
-<p align="justify">La plataforma de aprendizaje automático en el perímetro de Coral refuerza las TPU de Google Cloud y Cloud IoT para proporcionar una infraestructura completa (de hardware y software, y de la nube al perímetro) que facilita el despliegue de las soluciones basadas en IA de los clientes. La plataforma de Coral no solo incluye el entorno de programación de código abierto TensorFlow Lite, sino que también proporciona un kit de herramientas para desarrolladores que te permite compilar tus propios modelos o volver a preparar varios modelos de IA de Google para Edge TPU. De esta manera, se aúnan nuestros conocimientos avanzados tanto en IA como en hardware. (Merino, 2019)</p>
-<p align="justify">Edge TPU complementa las CPU, GPU y FPGA, además de otras soluciones ASIC, a fin de ejecutar la IA en el perímetro.</p>
+<p align="justify">EEn nuestro caso, para instalar el chat de nuestra web optamos por una herramienta gratuita y muy versátil que ofrece muchas opciones y además es fácil de configurar. Esta herramienta se llama tawk.to y te proporcionará todo lo que necesitas para atender a tus visitantes de manera excelente y totalmente gratis. Ofrece estadísticas de visitas, monitorización en tiempo real, sistema de tickets, mensajes automáticos, app para el móvil y muchas funcionalidades más. Por supuesto, tiene también versión de pago que permite opciones adicionales pero te aseguro que con la versión gratuita te bastará para tener en tu web un sistema de chat de alta calidad.</p>
 
-<b>Python</b>
-<p align="justify">Python es un lenguaje de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código. Se trata de un lenguaje de programación multiparadigma, ya que soporta orientación a objetos, programación imperativa y, en menor medida, programación funcional. Es un lenguaje interpretado, dinámico y multiplataforma.Es administrado por la Python Software Foundation. Posee una licencia de código abierto, denominada Python Software Foundation License, que es compatible con la Licencia pública general de GNU a partir de la versión 2.1.1, e incompatible en ciertas versiones anteriores(Knowlton, Jim (2009)).</p>
+<b>Tawk.to</b>
+<p align="justify">es una aplicación de mensajería gratuita que le permite monitorear y conversar con los, visitantes en su sitio web, aplicación móvil o desde una página personalizable gratuita. Copie una línea simple de Javascript en el html de su sitio web y el widget de chat comienza a funcionar al instante.</p>
 
-<b>Edge Computing</b>
-<p align="justify">El edge computing es un tipo de informática que ocurre en la ubicación física del usuario, de la fuente de datos, o cerca de ellas. Al establecer servicios de computación cerca de esas ubicaciones, los usuarios obtienen servicios más rápidos y confiables, y las empresas aprovechan la flexibilidad del cloud computing híbrido. Con el edge computing, una empresa puede usar y distribuir un conjunto común de recursos en una gran cantidad de ubicaciones. (Merino, 2019)</p>
+Inicie sesión en el panel para invitar a miembros de su equipo, crear accesos directos y comenzar a chatear con sus visitantes. Controle y rastree su progreso y el de sus equipos a lo largo del tiempo, revise el historial de chat y verifique el rendimiento en análisis.</p>
+
+Usted nunca tendrá que pagar por el software de chat en vivo de nuevo. ¿Cansado de pagar una suscripción mensual ‘por agente’? Bueno, puedes cancelar oficialmente tu suscripción actual, ya que tawk.to es completamente gratuito y siempre lo será.</p>
+
+Las compañías más grandes de la web, y posiblemente los mejores productos, casi siempre son gratuitas. De Facebook a Google, Twitter e Instagram: gratis no significa barato.</p>
+
+tawk.to está repleto de todas las características que necesita para proporcionar soporte al cliente ganador: es rapidísimo, confiable y escalable. Si ya usa el chat en vivo en su sitio, ¡realmente no hay razón para seguir pagando por agente!</p>
 
 <H3>11. CONCLUSIONES</H3>
 <p align="justify">Realizada la investigación sobre los chatbots y la realización del ejemplo funcional se llegó a las siguientes conclusiones:<br>
