@@ -86,36 +86,29 @@
 <p align="justify">El edge computing es un tipo de informática que ocurre en la ubicación física del usuario, de la fuente de datos, o cerca de ellas. Al establecer servicios de computación cerca de esas ubicaciones, los usuarios obtienen servicios más rápidos y confiables, y las empresas aprovechan la flexibilidad del cloud computing híbrido. Con el edge computing, una empresa puede usar y distribuir un conjunto común de recursos en una gran cantidad de ubicaciones. (Merino, 2019)</p>
 
 <H3>11. CONCLUSIONES</H3>
-<p align="justify">Realizada la investigación sobre las tarjetas de desarrollo  se llegó a las conclusiones sobre los objetivos específicos las cuales fueron:<br>
--	Las TPU son dispositivos que realizan con una mayor velocidad ya que la misma trabaja con matrices y con bloques de código que en comparación de las CPU es un 30% a 40 % más  veloz y exacta en los cálculos.<br>
--	Las TPU son dispositivos que realizan con una mayor velocidad ya que la misma trabaja con matrices y con bloques de código que en comparación de las GPU es un 15% a 20 % más  veloz y exacta en los cálculos.<br>
--	El ejemplo funcional se especificó en pasos anteriores además de mostrar la diferencia de tiempos en la implementación del código en el CPU, GPU, TPU.<br><br>
-Las conclusiones planteadas son de cada objetivo específico respectivamente los cuales ya fueron mostrados en un paso anterior.<br>
-Después de llegar a la conclusión de cada uno de los objetivos específicos se tiene que llegar a la evolución final del objetivo principal, que después de la evaluación se llegó a su respectiva conclusión, la cual es:<br>
-- Durante el desarrollo de los objetivos específicos se llegó a la conclusión que el objetivo general se cumplió a cabalidad ya  que gracias a la implementación del ejemplo mostrado anteriormente se mostró la diferencia en la velocidad de procesamiento que sus contrapartes como son las CPU y las GPU.</p>
+<p align="justify">Realizada la investigación sobre los chatbots y la realización del ejemplo funcional se llegó a las siguientes conclusiones:<br>
+-	Mediante la investigación y la implementación del ejercicio propuesto se llegó a conocer que varias de las herramientas proporcionadas por Watson son para el mejoramiento e implementación de detalles al chatbot <br>
+-	Se implementó de manera exitosa un ejemplo funcional de un chatbot con idea de automóviles<br>
+-	Se logró simular de manera exitosa ya que la misma plataforma nos presta un simulador en el cual se puede interactuar con el chatbot.<br><br>
+Después de haber logrado los objetivos específicos se llegó a la conclusión que gracias a estos objetivos específicos se lograra llegar a la implementación y la realización de los objetivos generales.<br>
+- Durante el estudio de esta asignatura se mostró que los temas presentados en clase son solo el comienzo de lo que es la materia gracias a lo cual se puede aumentar el conocimiento  adquirido en el semestre.</p>
 
 <H3>12. RECOMENDACIONES</H3>
-<p align="justify">-	Al momento de realizar la investigación nos mostró que se deben estudiar más afondo de la tecnología TPU ya que la misma al ser un concepto reciente no existe una información muy amplia.<br><br>
--	Conocer los distintos tipos de plataformas elegibles para realizar simulaciones sobre los diferentes elementos estudiados en este artículo.<br><br>
-- Tener en cuenta al momento de realizar cualquier simulación en las TPU , GPU y las CPU se deben tomar en cuenta los lenguajes de programación elegidos para el componente en el que se necesita simularlo.<br></p>
+<p align="justify">-Durante el estudio de esta asignatura se mostró que los temas presentados en clase son solo el comienzo de lo que es la materia gracias a lo cual se puede aumentar el conocimiento  adquirido en el semestre.<br><br>
+-	Conocer las diferentes herramientas no es suficiente para estar preparados  para los casos que se presentan en la vida real<br><br>
+- Conocer los distintos de chatbots de los cuales se puede hacer uso para dar solución a los distintos problemas que pueden presentarse.<br></p>
 
 <H3>13. CRONOGRAMA</H3>
 <p align="center"><img src="img/cronograma (2).jpeg"/></p>
 
 <H3>14. BIBLIOGRAFIA</H3>
-<p align="justify">-	https://www.adslzone.net/2017/04/06/tpu-el-chip-de-google-hasta-30-veces-mas-potente-que-una-cpu-y-gpu-normales/J.  Clerk  Maxwell, A Treatise on Electricity and Magnetism, 3rd ed., vol. 2. Oxford: Clarendon, 1892, pp.68-73.<br><br>
+<p align="justify">-	Natalya N. Bazarova, Yoon Hyung Choi, Victoria Schwanda Sosik, Dan Cosley, and Janis Whitlock. Social Sharing of Emotions on Facebook: Channel Differences, Satisfaction, and Replies. In Proc. of CSCW, 2015, 154--164<br><br>
 -	I.S.  Jacobs  and  C.P.  Bean,  “Fine  particles,  thin films  and  exchange  anisotropy,”  in  Magnetism, vol. III, G.T. Rado and H. Suhl, Eds. New York: Academic, 1963, pp. 271-350.<br><br>
-- K. Elissa, “Title of paper if known,” unpublished.<br><br>
-- ¿Qué es la CPU o procesador de un ordenador? // SoftwareLab. (n.d.). Recuperado en Julio 23, 2020, de https://softwarelab.org/es/que-es-la-cpu-o-procesador-de-un-ordenador/<br><br>
--	Build and train machine learning models on our new Google Cloud TPUs. (n.d.). Recuperado en Julio 28, 2020, de https://www.blog.google/topics/google-cloud/google-cloud-offer-tpus-machine-learning/<br><br>
-- Definición de CPU » Concepto en Definición ABC. (n.d.). Recuperado en July 23, 2020, de https://www.definicionabc.com/tecnologia/cpu.php<br><br>
--	Nvidia Responds to Google TPU Benchmarking. (n.d.). Recuperado en Julio 23, 2020, de https://www.hpcwire.com/2017/04/10/nvidia-responds-google-tpu-benchmarking/<br><br>
--	Page not found - The Next Platform. (n.d.). Recuperado en Julio 23, 2020, de https://www.nextplatform.com/2017/05/17/first-depth-look-googles-new-secondgeneration-tpu/<br><br>
--	Procesadores dedicados a redes neurológicas y procesamiento de tensores | Foros de Electrónica. (n.d.). Recuperado en Julio 23, 2020, de https://www.forosdeelectronica.com/threads/procesadores-dedicados-a-redes-neurológicas-y-procesamiento-de-tensores.152755/<br><br>
--	Siglas de informática que debes conocer - Tecnología + Informática. (n.d.). Recuperado en Julio 23, 2020, de https://www.tecnologia-informatica.com/siglas-informatica/<br><br>
--	TPU: el chip de Google hasta 30 veces más potente que una CPU y GPU. (n.d.). Recuperado en Julio 23, 2020, de https://www.adslzone.net/2017/04/06/tpu-el-chip-de-google-hasta-30-veces-mas-potente-que-una-cpu-y-gpu-normales/<br><br>
--	Unidad central de procesamiento - Wikipedia, la enciclopedia libre. (n.d.). Recuperado en Julio 23, 2020, de https://es.wikipedia.org/wiki/Unidad_central_de_procesamiento<br><br>
--	Unidad de procesamiento tensorial - Wikipedia, la enciclopedia libre. (n.d.). Recuperado en Julio 23, 2020, de https://es.wikipedia.org/wiki/Unidad_de_procesamiento_tensorial<br><br></p>
+- Joan-Isaac Biel, Oya Aran, and Daniel Gatica-Perez. You Are Known by How You Vlog: Personality Impressions and Nonverbal Behavior in Youtube. In Proc. of ICWSM, 2011, 446--449.<br><br>
+- Keith S. Coulter, Johanna Gummerus, Veronica Liljander, Emil Weman, and Minna Pihlström. Customer Engagement in a Facebook Brand Community. Management Research Review, 2012, 35, 9, 857--877. <br><br>
+-	Weizenbaum, Joseph. "ELIZA---a computer program for the study of natural language communication between man and machine." Communications of the ACM 9.1 (1966): 36--45.<br><br>
+- Definición de CPU » ]  AskTanmay, https://github.com/tanmayb123/AskTanmay.<br><br>
+
 
 <H3>15. ANEXOS</H3>
 <H3>15.1 MANUAL DE USUARIO</H3>
