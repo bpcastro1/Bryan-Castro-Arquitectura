@@ -48,8 +48,8 @@
 
 
 <H3>5. DIAGRAMAS</H3>
-<p align="center"><img src="img/diagrama1.png"/></p>
-<p align="center"><img src="img/diagrama2.png"/></p>
+<p align="center"><img src="img/Arquitectura.jpg"/></p>
+<p align="center"><img src="img/IBM arc.svg"/></p>
 
 <H3>6. LISTA DE COMPONENTES</H3>
 <p align="justify"><b>IBM Watson</b></p>
