@@ -51,9 +51,9 @@
 <p align="center"><img src="img/Arquitectura.jpg"/></p>
 <p align="center"><img src="img/IBM arc.svg"/></p>
 <p align="justify"><b>Funcionamiento</b></p>
-<p align="center"><img src="img/cap 1.jpeg"/></p>
+<p align="center"><img src="img/cap1.jpeg"/></p>
 <p align="justify"><b>Al correr la simulacion  nos mostrar los saludos antes puestos despues el usuario tien que digitar la pregunta y el bot le responder de la base de datos de las respuestas que anteriormente se registraron para este caso en especifico nos mostrar la pregunat¿ Qué tipo de auto desea?.</b></p>
-<p align="center"><img src="img/cap 2.jpeg"/></p>
+<p align="center"><img src="img/cap2.jpeg"/></p>
 <p align="justify"><b>Al relalizar los primeros pasos el bot nos pide o se infiere que se debe realizar el ingreso del tipo de vehiculo , el bot respondera  con una de las multiples respuesta ingresadas en el banco de respuestas.</b></p>
 
 <H3>6. LISTA DE COMPONENTES</H3>
