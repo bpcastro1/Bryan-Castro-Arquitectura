@@ -73,7 +73,7 @@
 
 <H3>10. APORTACIONES</H3>
 <p align="justify">Como instalar un chatbot en una pagina web</p>
-<b>Edge TPU</b>
+<b>Chatbot</b>
 <p align="justify">EEn nuestro caso, para instalar el chat de nuestra web optamos por una herramienta gratuita y muy versátil que ofrece muchas opciones y además es fácil de configurar. Esta herramienta se llama tawk.to y te proporcionará todo lo que necesitas para atender a tus visitantes de manera excelente y totalmente gratis. Ofrece estadísticas de visitas, monitorización en tiempo real, sistema de tickets, mensajes automáticos, app para el móvil y muchas funcionalidades más. Por supuesto, tiene también versión de pago que permite opciones adicionales pero te aseguro que con la versión gratuita te bastará para tener en tu web un sistema de chat de alta calidad.</p>
 
 <b>Tawk.to</b>
