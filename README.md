@@ -49,10 +49,19 @@
 <H3>4.3 Apartados Watson</H3>
 <b>Intents</b>
 <p align="justify"><p align="justify">Son propósitos u objetivos que se expresan en la entrada de un cliente, tales como responder a una pregunta o procesar un pago de factura. Al reconocer la intención expresada en una entrada de cliente, el servicio Watson Assistant puede elegir el flujo de diálogo correcto para responder a la misma.</p></p>
+<p align="justify"><p align="justify">-Para definir un  intento se debe nombrarlo antecedido de un simbolo numeral.</p></p>
+<p align="justify"><p align="justify">-Hay que añadir una descripcion de intento en esta se puede colocar palabras clave sobre lo que se quiere que haga el chatbot.</p></p>
+<p align="justify"><p align="justify">-Se define ejemplos de preguntas que el chat bot puede aceptarlas como el indicador de inicio de dialogo.</p></p>
 <b>Entities</b>
 <p align="justify"><p align="justify">Se utilizan para identificar partes interesantes del enunciado del usuario, como nombres y fechas. Watson Assistant ya proporciona entidades del sistema (para fecha, hora, nombres, etc.) y le permite definir entidades con sinónimos y coincidencia aproximada, así como definir entidades basadas en patrones</p></p>
+<p align="justify"><p align="justify">-Para definir una entiti es nesesario hacerlo con el caracter especial del arroba.</p></p>
+<p align="justify"><p align="justify">-Hay que añadir un valor y varios de los sinonimos que nos expresen las caracteristicas propias del objeto definido.</p></p>
+<p align="justify"><p align="justify">-Al definir los objetos se almacena en una base de datos la cual nos proporcionara los objetos expuestos para posteriormente dar respuestas a las preguntas planteadas por los usuarios.</p></p>
 <b>Dialog</b>
 <p align="justify"><p align="justify">Define lo que dice su asistente en respuesta a los clientes</p></p>
+<p align="justify"><p align="justify">-Para la utilizacion de este submenu se hace uso de odos los cuales son configurables con diferentes aspectos.</p></p>
+<p align="justify"><p align="justify">-para la configuaracion de los saludos se debe abrir la configuaracion del nodo saludo en el cual se puede aumentar diferebtes tipos de saludos haciendo una seleccion aleatoria de los mismos para evitar caer en la monotonia de la charla.</p></p>
+<p align="justify"><p align="justify">-Se añade nodos como puede ser el de charla para configurar las diferentes respuestas ademas  de poder ingresar diferentes enlaces a paginas en las cales puede dar respuesta al problema planteado.</p></p>
 <b>Options</b>
 <p align="justify"><p align="justify">El texto que agrega como etiqueta se muestra en la respuesta al usuario como una opción seleccionable.</p></p>
 <b>Analytics</b>
