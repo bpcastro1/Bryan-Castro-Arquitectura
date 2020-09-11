@@ -46,6 +46,22 @@
 <p align="center"><img src="img/watson.jpeg"/></p>
 <p align="center">-IBM Watson.<br>Fuente: https://cambiodigital-ol.com/2019/01/ibm-pone-fin-a-su-aplicacion-watson-workspace/</p>
 
+<H3>4.3 Apartados Watson</H3>
+<b>Intents</b>
+<p align="justify"><p align="justify">Son propósitos u objetivos que se expresan en la entrada de un cliente, tales como responder a una pregunta o procesar un pago de factura. Al reconocer la intención expresada en una entrada de cliente, el servicio Watson Assistant puede elegir el flujo de diálogo correcto para responder a la misma.</p></p>
+<b>Entities</b>
+<p align="justify"><p align="justify">Se utilizan para identificar partes interesantes del enunciado del usuario, como nombres y fechas. Watson Assistant ya proporciona entidades del sistema (para fecha, hora, nombres, etc.) y le permite definir entidades con sinónimos y coincidencia aproximada, así como definir entidades basadas en patrones</p></p>
+<b>Dialog</b>
+<p align="justify"><p align="justify">Define lo que dice su asistente en respuesta a los clientes</p></p>
+<b>Options</b>
+<p align="justify"><p align="justify">El texto que agrega como etiqueta se muestra en la respuesta al usuario como una opción seleccionable.</p></p>
+<b>Analytics</b>
+<p align="justify"><p align="justify"> es un servicio inteligente de análisis y descubrimiento de datos disponible en la nube.  Ayuda a descubrir patrones y significado en datos. Utiliza un lenguaje natural y puede descifrar casi cualquier idioma.</p></p>
+<b>Versions</b>
+<p align="justify"><p align="justify"> ayudan a gestionar el flujo de trabajo de un proyecto de desarrollo de conocimientos de diálogo.Cree una versión de conocimiento para capturar una instantánea de los datos de entrenamiento (intenciones y entidades) y un diálogo en el conocimiento en puntos clave durante el proceso de desarrollo.</p></p>
+<b>Content Catalog</b>
+<p align="justify"><p align="justify">ofrecen un método sencillo para añadir intenciones comunes al conocimiento de diálogo de Watson Assistant.Las intenciones que añade desde el catálogo están pensadas para proporcionar un punto de partida. Añada o edite intenciones de catálogo para adaptarlas a su caso de uso.</p></p>
+
 
 <H3>5. DIAGRAMAS</H3>
 <p align="center"><img src="img/Arquitectura.jpg"/></p>
@@ -79,7 +95,7 @@
 <H3>10. APORTACIONES</H3>
 <p align="justify">Como instalar un chatbot en una pagina web</p>
 <b>Chatbot</b>
-<p align="justify">EEn nuestro caso, para instalar el chat de nuestra web optamos por una herramienta gratuita y muy versátil que ofrece muchas opciones y además es fácil de configurar. Esta herramienta se llama tawk.to y te proporcionará todo lo que necesitas para atender a tus visitantes de manera excelente y totalmente gratis. Ofrece estadísticas de visitas, monitorización en tiempo real, sistema de tickets, mensajes automáticos, app para el móvil y muchas funcionalidades más. Por supuesto, tiene también versión de pago que permite opciones adicionales pero te aseguro que con la versión gratuita te bastará para tener en tu web un sistema de chat de alta calidad.</p>
+<p align="justify">En nuestro caso, para instalar el chat de nuestra web optamos por una herramienta gratuita y muy versátil que ofrece muchas opciones y además es fácil de configurar. Esta herramienta se llama tawk.to y te proporcionará todo lo que necesitas para atender a tus visitantes de manera excelente y totalmente gratis. Ofrece estadísticas de visitas, monitorización en tiempo real, sistema de tickets, mensajes automáticos, app para el móvil y muchas funcionalidades más. Por supuesto, tiene también versión de pago que permite opciones adicionales pero te aseguro que con la versión gratuita te bastará para tener en tu web un sistema de chat de alta calidad.</p>
 
 <b>Tawk.to</b>
 <p align="justify">es una aplicación de mensajería gratuita que le permite monitorear y conversar con los, visitantes en su sitio web, aplicación móvil o desde una página personalizable gratuita. Copie una línea simple de Javascript en el html de su sitio web y el widget de chat comienza a funcionar al instante.</p>
